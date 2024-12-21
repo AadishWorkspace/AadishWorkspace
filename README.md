@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-Currently working on fullstack projects to enhance my development skills. 
+Currently working on fullstack projects to enhance my development skills.  
 Also a little bit of leetcode and likewise dsa algorithms
